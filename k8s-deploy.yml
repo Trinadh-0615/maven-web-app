@@ -24,7 +24,7 @@ spec:
       - containerPort: 8080
 ---
 apiVersion: v1
-kind: ServiceNEW
+kind: Service
 metadata:
  name: mavenwebappsvc
 spec:
